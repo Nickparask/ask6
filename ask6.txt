@@ -1,0 +1,4 @@
+Frinde 1
+WashingMachine 1
+Oven 1
+AirCondition 1
